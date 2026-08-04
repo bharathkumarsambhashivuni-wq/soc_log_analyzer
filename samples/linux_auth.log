@@ -1,3 +1,4 @@
 Jul 30 09:12:15 server sshd[1234]: Failed password for root from 192.168.1.100 port 52544 ssh2
-Jul 30 09:13:02 server sshd[1235]: Accepted password for admin from 192.168.1.101 port 52545 ssh2
+Jul 30 09:13:02 server sshd[1235]: Failed password for admin from 192.168.1.100 port 52545 ssh2
 Jul 30 09:14:33 server sshd[1236]: Failed password for user from 192.168.1.100 port 52546 ssh2
+Jul 30 09:15:21 server sshd[1237]: Accepted password for admin from 192.168.1.101 port 52547 ssh2
